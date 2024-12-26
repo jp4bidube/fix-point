@@ -13,7 +13,7 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/components/ui/sidebar";
-import { MainRoutes } from "@/routes/private-routes";
+import { MainRoutes } from "@/presentation/routes/private-routes";
 
 export default function Page() {
   return (
